@@ -5,7 +5,7 @@ export default class States extends Component {
     super()
     this.state = {
       name: "Nissan Skyline",
-      model: "1.0"
+      model: "1.0",
       colors: ['black', 'blue', 'yellow', 'white', 'cyan', 'pink']
     }
   }
